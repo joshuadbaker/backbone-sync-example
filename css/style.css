@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+.dog {
+	float: left;
+	border: 1px solid black;
+	padding: 30px;
+	margin: 0 10px 10px 0;
+}
+
+.clear {
+	display: block;
+	clear: both;
+}
